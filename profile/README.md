@@ -18,7 +18,7 @@ WebのためのOne MCP。ブロックされることなく、Webサイトを簡�
 
 ### Web Unlocker API
 
-<a href="https://github.com/luminati-io/bright-data-web-unlocker-nodejs-project"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luminati-io&repo=bright-data-web-unlocker-nodejs-project" /> </a>
+<a href="https://github.com/bright-jp/bright-data-web-unlocker-nodejs-project"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luminati-io&repo=bright-data-web-unlocker-nodejs-project" /> </a>
 
 高度なWeb Unlockerプラットフォームにより、公開Webページへ手間なくアクセスできます。当社の最先端技術は、Webサイトのブロッキング手法をリアルタイムで能動的に監視・解決し、ブラウザフィンガープリント、CAPTCHAの解決、IPローテーション、リクエストのリトライなどの自動化機能を用いて、あらゆるサイトへのシームレスなアクセスを実現します。
 
@@ -42,7 +42,7 @@ Bright Data SERP APIは、主要な検索エンジンすべてに対して、実
 
 ### Browser API
 
-<a href="https://github.com/luminati-io/bright-data-scraping-browser-nodejs-playwright-project"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luminati-io&repo=bright-data-scraping-browser-nodejs-playwright-project" /> </a>
+<a href="https://github.com/bright-jp/bright-data-scraping-browser-nodejs-playwright-project"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=luminati-io&repo=bright-data-scraping-browser-nodejs-playwright-project" /> </a>
 
 プロキシローテーション、CAPTCHAの解決、検知回避機能を内蔵したヘッドレスブラウザ自動化です。
 
